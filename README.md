@@ -1,11 +1,10 @@
-Chisel Project Template
+Using Chisel Project Template
+Modules and Utilities for the ALU used in  riscv-mini[here](https://github.com/obiwanrohan/riscv-mini)
 =======================
 
-You've done the [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp), and now you
-are ready to start your own Chisel project.  The following procedure should get you started
-with a clean running [Chisel3](https://www.chisel-lang.org/) project.
-
-## Make your own Chisel3 project
+## riscv-mini
+riscv-mini is a core architectuer under development at NIT Hamirpur
+ALU-Utils has all the arithmetic and logical modules used in the design
 
 ### Dependencies
 
